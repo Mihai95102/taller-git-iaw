@@ -19,7 +19,7 @@ Ejemplo de código en bash:
 #!/bin/bash
 echo "Hola Mundo"
 ```
-a
+
 Ejemplo de Python:
 
 ```python
