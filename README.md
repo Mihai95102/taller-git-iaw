@@ -4,7 +4,7 @@ Repositorio para hacer prácticas con Git en el módulo de IAW
 
 Esto es una *prueba* de sintaxis con **Markdown**:
 
-# Sintaxis más utiliados
+# Sintaxis más utiliada
 Esto está en **negrita**
 
 Esto también está en __negrita__
@@ -34,7 +34,7 @@ print("Hola Mundo")
 
 [![](https://www.diariodealmeria.es/temas/10-pueblos-Almeria-debes-visitar/imagenes/portada.jpg)](https://educacionadistancia.juntadeandalucia.es/centros/almeria/course/view.php?id=1489)
 
-# Sintaxis menos utilizados
+# Sintaxis menos utilizada
 Esto está ~tachado~
 
 Esto no es una cita
@@ -44,3 +44,9 @@ Esto no es una cita
 
 [Moodle Centros Almería](https://educacionadistancia.juntadeandalucia.es/centros/almeria/course/view.php?id=1489)
 
+
+# Enlaces Internos
+
+![](images/GitHub-Octocat.jpg)
+
+[Enlace al DocumentoA](DocumentoA.md)
