@@ -6,9 +6,12 @@ Esto es una *prueba* de sintaxis con **Markdown**:
 
 # Sintaxis más utiliados
 Esto está en **negrita**
+
 Esto también está en __negrita__
 
+
 Esto está en *cursiva*
+
 Esto también está en _cursiva_
 
 Ejecutamos el comando `ls -la`.
